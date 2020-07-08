@@ -13,7 +13,6 @@
     "draftjs-to-html": "^0.8.4",
     "echarts": "^4.2.1",
     "echarts-for-react": "^2.0.15-beta.0",
-    "eject": "^0.0.4",
     "html-to-draftjs": "1.4.0",
     "jsonp": "^0.2.1",
     "less": "^3.9.0",
@@ -52,5 +51,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://localhost:5000"
+  "proxy": "http://39.100.225.255:5000/"
 }
